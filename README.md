@@ -1,3 +1,7 @@
-# Atividade Roxcode
+## Ambiente da atividade
 
-Documentação das atividades práticas de Ubuntu, Nginx e Git.
+- Ubuntu instalado no WSL.
+- Nginx configurado na porta 800.
+- Página estática publicada.
+- Permissões do HTML: 644.
+- Permissões da pasta do site: 755.
